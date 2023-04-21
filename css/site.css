@@ -14,7 +14,7 @@
             width: 100%;
             background-color: #1d539d;
             color: white;
-            padding-top: 6%;
+            padding-top: 7%;
             box-sizing: border-box;
             overflow-y: auto;
             overflow-x: hidden;
@@ -29,7 +29,7 @@
         }
 
         .success-text {
-            padding-bottom: 20px;
+            padding-bottom: 22px;
             font-size: 62px;
             line-height: 73px;
         }
@@ -79,7 +79,7 @@
 
         .content {
             box-sizing: border-box;
-            min-width: 700px;
+            min-width: 800px;
             max-width: 830px;
             position: relative;
             margin: auto;
